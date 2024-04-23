@@ -203,7 +203,6 @@ body {
     line-height: 21px;
     text-align: left;
     color: #62656D;
-    margin-top: 12px;
     margin-left: 118px;
     cursor: pointer;
 }
@@ -367,4 +366,15 @@ body {
 
 .fd-colmn{
     flex-direction: column;
+}
+
+.ml-3{
+    margin-left: 3px;
+}
+.m-0{
+    margin: 0;
+}
+
+.mt-12{
+    margin-top: 12px;
 }
