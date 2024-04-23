@@ -31,6 +31,10 @@
     padding-right: 12px;
 }
 
+.w-100{
+    width: 100%;
+}
+
 .bg-img {
     background-image: url(../images/Sign\ in.png);
     background-repeat: no-repeat;
@@ -354,4 +358,13 @@ body {
     position: absolute;
     left: 246px;
     top: 137px;
+}
+
+
+.justify-left{
+    justify-content: left;
+}
+
+.fd-colmn{
+    flex-direction: column;
 }
